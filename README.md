@@ -1,6 +1,11 @@
 # r_gbod
 This is an grid based anomaly detection algorithm, which suitable for large dataset.
 
+Reference Paper: 
+**Grid Based Outlier Detection in Large Data Sets for Combine Harvester**
+Author: Ying Gu, 
+Conference: IEEE-INDIN 2017(IEEE 15th International Conference on Industrial Informatics)
+
 # Installation
 The installation need the `devtools` package: https://github.com/hadley/devtools
     library(devtools)
