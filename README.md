@@ -8,7 +8,8 @@ Conference: IEEE-INDIN 2017(IEEE 15th International Conference on Industrial Inf
 
 # Installation
 The installation need the `devtools` package: https://github.com/hadley/devtools
-    library(devtools)
+
+    library("devtools")
     install_github("blatoo/r_gbod")
     
 # Quickstart
